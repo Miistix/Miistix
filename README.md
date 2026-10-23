@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olujimi Adedeji.
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding, sports and music.
+- 🌱 I’m currently learning Python and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
