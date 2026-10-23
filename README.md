@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miistix
+- 👋 Hi, I’m Olujimi Adedeji.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
